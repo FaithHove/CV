@@ -1,0 +1,46 @@
+
+
+body {
+  background-color: #EEF1FF;
+  font-family:cursive;
+  font-style: oblique;
+  background-image: url("family pic(2).png");
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #AAC4FF;
+  border-width: 6px;
+  width: 6%;
+}
+ .Skills{
+   background-color: #D2DAFF;
+ }
+h1{
+  color:#25316D;
+  text-shadow: 2px 2px;
+  text-align:right;
+  font-size: 40px;
+
+}
+ h2{
+   color:#25316D;
+   text-shadow: 2px 2px;
+   text-align:center;
+   font-size: 40px;
+ }
+h4{
+
+    color:#25316D;
+
+    text-align: right;
+    font-size: 20px;
+  font-family:serif;
+  font-style: normal;
+}
+
+.circular{
+  border-radius: 100%;
+}
