@@ -40,6 +40,9 @@ h4{
   font-family:serif;
   font-style: normal;
 }
+h2:hover
+{background-color:white;
+}
 
 .circular{
   border-radius: 100%;
