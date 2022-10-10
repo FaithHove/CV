@@ -1,7 +1,7 @@
 
 
 body {
-  background-color: #EEF1FF;
+
   font-family:cursive;
   font-style: oblique;
   background-image: url("family pic(2).png");
@@ -15,9 +15,7 @@ hr {
   border-width: 6px;
   width: 6%;
 }
- .Skills{
-   background-color: #D2DAFF;
- }
+
 h1{
   color:#25316D;
   text-shadow: 2px 2px;
@@ -47,4 +45,30 @@ h2:hover {
 
 .circular{
   border-radius: 100%;
+}
+.styles {
+  background-color: #B1B2FF;
+margin: 0;
+padding:20px;
+}
+
+
+.links{
+  background-color: #D2DAFF;
+margin: 0;
+padding:20px;
+}
+
+.Skills2{
+  background-color: #B1B2FF;
+margin: 0;
+padding:20px;
+
+
+}
+
+.askme {
+  background-color: #D2DAFF;
+margin: 0;
+padding:20px;
 }
