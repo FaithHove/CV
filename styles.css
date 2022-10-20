@@ -20,9 +20,9 @@ font-size: 4em;
 padding: 80px;
 font-family: 'Sacramento', cursive;
 font-style: italic;
-
   display: inline;
 position: absolute;
+  right:0;
 }
  h2{
    color:#25316D;
