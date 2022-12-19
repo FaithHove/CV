@@ -1,11 +1,11 @@
 
 
 body {
+  background-color: #EEF1FF;
+  font-family:cursive;
+  font-style: oblique;
+  background-image: url("family pic(2).png");
 
-  font-family: 'Merriweather', serif;
-background-color: #D2DAFF;
-margin: 0 0 0 0;
-text-align: justify;
 }
 
 hr {
@@ -15,43 +15,30 @@ hr {
   border-width: 6px;
   width: 6%;
 }
-
+ .Skills{
+   background-color: #D2DAFF;
+ }
 h1{
   color:#25316D;
-font-size: 4em;
-padding: 80px;
-font-family: 'Sacramento', cursive;
-font-style: italic;
-line-height: 2;
-  display: inline;
-position: absolute;
-font-weight:normal;
+  text-shadow: 2px 2px;
+  text-align:right;
+  font-size: 40px;
+
 }
  h2{
    color:#25316D;
-   font-family: 'Montserrat', sans-serif;
+   text-shadow: 2px 2px;
    text-align:center;
    font-size: 40px;
-   font-weight:normal;
  }
- h3{
-   color:#25316D;
-   font-family: 'Montserrat', sans-serif;
-   text-align:left;
-   font-size: 40px;
-   font-weight: normal;
- }
-
-
 h4{
 
     color:#25316D;
-padding: 170px;
-line-height: 3;
-    display: inline;
-    position: absolute;
-     font-family: 'Montserrat', sans-serif;
-     font-weight: normal;
+
+    text-align: right;
+    font-size: 20px;
+  font-family:serif;
+  font-style: normal;
 }
 
 h2:hover {
@@ -59,62 +46,5 @@ h2:hover {
 }
 
 .circular{
-  border-radius: 200%;
-
-
-}
-.styles {
-  background-color: #B1B2FF;
-margin: 0;
-padding:10px;
-position:relative;
-text-align: left;
-
-}
-.me{
-  position:relative;
-  left:1200px;
-  top:20px;
-}
-
-.links{
-  background-color: #D2DAFF;
-margin: 0;
-padding:20px;
-
-}
-
-.Skills2{
-  background-color: #B1B2FF;
-margin: 0;
-padding:20px;
-
-}
-
-.askme {
-  background-color: #D2DAFF;
-margin: 0;
-padding:20px;
-}
-.skill-row{
-  width:50%;
-  margin: 100px auto  100px auto;
-text-align: left;
-line-height: 2;
-}
-.ops{
-  width: 25%;
-  float: left;
-
-}
-.logs{
-  width:25%;
-  float:left;
-  margin-right: 30px;
-
-}
-.cus{
-  Width:25%;
-  Float:left;
-  margin-right: 250px;
+  border-radius: 100%;
 }
